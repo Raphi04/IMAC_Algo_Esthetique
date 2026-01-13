@@ -1,4 +1,4 @@
-# Dessin algorithmique
+# Automate celullaire
 
 ## Projet
 
