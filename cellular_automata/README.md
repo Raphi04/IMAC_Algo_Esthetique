@@ -6,7 +6,7 @@ Mon programme permet de dessiner des formes et de les effacer automatiquement.
 
 On peut également le mettre en pause en appuyant sur **_espace_**.
 
-J'ai imaginer les règles moi-même.
+J'ai imaginé les règles moi-même.
 
 ## Installation
 
