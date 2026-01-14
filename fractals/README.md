@@ -4,7 +4,7 @@
 
 Mon programme permet de dessiner la fractale du triangle de Sierpiński.
 
-Quand on appuie sur "+" ou "-", on augmente le nombre d'itérations.
+Quand on appuie sur "+" ou "-", on augmente ou réduit le nombre d'itérations.
 
 Quand on click, ça change de couleur aléatoirement.
 
